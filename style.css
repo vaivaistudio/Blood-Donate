@@ -1,0 +1,149 @@
+body{
+    margin: 0;  
+    padding: 0;
+}
+.costom-button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: rgb(221, 114, 114);
+    border: none;
+    color: white;
+    font-size: 15px;
+   
+}
+.back-im{
+    background-image: url(./donate-today-main/images/costom.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px;
+}
+.head-section{   
+    color: white;
+    text-align: center;   
+}
+.head-section h1{
+    color: red;
+    line-height: 10px;
+}
+
+.head-section h1{
+    font-size: 60px;
+}
+
+
+/*Donate Amount Section*/
+.donate-about{
+    margin-top: 100px;
+    text-align: center;
+    
+    
+}
+
+.donate-about h1{
+    font-size: 40px;
+    line-height: 20px;
+}
+.amaunt-section{
+    text-align: center;
+    padding-top: 40px;
+}
+.amaunt-section span{
+    padding: 20px;
+    background-color: rgb(246, 235, 235);
+    margin: 10px;
+   border-radius: 5px;
+}
+#special-amaunt{
+    background-color: rgb(231, 180, 180);
+    color: red;
+    border: 1px solid red;
+}
+.submit-section{
+    text-align: center;
+    margin-top: 50px;
+}
+.submit-section input{
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin: auto;
+    padding: 10px;
+    
+   
+}
+
+.donate-plan{
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+
+.donate-plan h1{
+    font-size: 50px;
+}
+
+.about-section{
+    display: flex;
+    padding: 20px;
+    margin: auto;
+
+}
+.family-infor{
+    background-color: rgb(231, 180, 180);
+    padding: 20px;
+    margin: 20px;
+    
+}
+.depend-section{
+display: flex;
+text-align: center;
+margin-left: 40px;
+margin-top: 50px;
+}
+.text-section{
+    
+    width: 450px;
+}
+.text-section h1{
+    font-size: 40px;
+}
+.img-section{
+    width: 50%;
+   
+    text-align: center;
+}
+.img-section img{
+    width: 450px;
+    height: 300px;
+    border-radius: 5px;
+    margin-left: 40px;   
+    
+}
+.update{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.update h1{
+    font-size: 40px;
+}
+.subscribe{
+    text-align: center;
+    margin: auto;
+    width: 400px;
+    padding: 30px 40px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+.subscribe input{
+    padding: 10px;
+    border: none;
+}
+.footar{
+    margin-top: 60px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
